@@ -1,0 +1,231 @@
+body{
+    display: flex;
+    justify-content: center;
+}
+
+
+hr{
+    width: 600px;
+    margin-left: 506.5px;
+}
+
+#main-title{
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+
+}
+
+.heading-cont{
+    width: 600px;
+    height: 50px;
+    border-bottom: 1px solid lightslategray;
+    text-align: left;
+    
+}
+
+.heading-cont h2{
+    
+}
+
+h2 {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    right: 420px;
+    font-size: 26px;
+}
+
+#colors div {
+    display: inline-block;
+}
+
+#colors{
+    margin-top: 100px;
+}
+
+.color-preview {
+    height: 100px;
+    width: 100px;
+    text-align: center;
+    border-radius: 50%;
+    font-size: 12px;
+    text-align: center;
+    margin-right: 15px;
+}
+
+#colors-container{
+    margin-bottom: 100px;
+}
+
+.color-title{
+    position: relative;
+    top: 60px;
+    right: 107px;
+    text-align: center;
+    width: 80px;
+}
+
+#colors p{
+    color: #A7A7A7;
+    font-family: "Roboto", sans-serif;
+    font-size: 12px;
+}
+
+.color-title p{
+    display: block;
+}
+
+#gunmetal {
+    background-color: #272D2D;
+}
+
+#rose {
+    background-color: #a39ba8;
+}
+
+#powder {
+    background-color: #b8c5d6;
+}
+
+#alice {
+    background-color: #edf5fc;
+}
+
+#emerald {
+    background-color: #23ce6b;
+}
+
+#font-container{
+    height: 400px;
+}
+
+#font-container .font-preview{
+display: inline-block;
+}
+
+#fonts{
+    margin-top: 100px;
+}
+
+.font-preview{
+    margin-right: 30px;
+}
+
+#font-container h3{
+    text-decoration: underline;
+}
+
+#roboto h3{
+    font-family: "Roboto", sans-serif;
+}
+
+#prompt h3{
+    font-family: "Prompt", sans-serif;
+}
+
+#mukta h3{
+    font-family: "Mukta", sans-serif;
+}
+
+#roboto-thin {
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+  }
+
+  #roboto-light {
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+  }
+
+  #roboto-regular {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  #mukta-extralight {
+    font-family: "Mukta", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+  }
+
+  #mukta-light {
+    font-family: "Mukta", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+  }
+
+  #mukta-regular {
+    font-family: "Mukta", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  #prompt-extralight {
+    font-family: "Prompt", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+  }
+
+  #prompt-light {
+    font-family: "Prompt", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+  }
+
+  #prompt-regular {
+    font-family: "Prompt", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+#roboto{
+    bottom: 50px;
+    left: 60px;
+}
+
+#prompt{
+    bottom: 50px;
+    left: 60px;
+}
+
+#mukta{
+    top: 150px;
+    right: 648px;
+    line-height: 20px
+}
+
+#text{
+    margin-top: 100px;
+}
+
+.text-container{
+    display: inline-block;
+    margin-right: 120px;
+}
+
+#h1-text h1{
+    font-weight: 700;
+    font-size: 26px;
+    font-family: "Roboto", sans-serif;
+    margin-bottom: 0;
+}
+
+#h2-text h2{
+    font-weight: 500;
+    font-size: 18px;
+    font-family: "Prompt", sans-serif;
+}
+
+#para-text p{
+    font-weight: 400;
+    font-size: 14px;
+    font-family: "Mukta", sans-serif;
+}
+
+#text ul{
+    padding-left: 10px;
+}
